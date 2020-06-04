@@ -1,0 +1,453 @@
+{
+    "provincias":{
+        "provincia": "San Jose",
+        "coordenadas": "9.9280694, -84.0907246",
+        "cantones":[{
+            "canton":"central",
+            "coordenadas":"9.9280694, -84.0907246",
+            "distritos":[
+                {
+                    "distrito":"Carmen",
+                    "coordenadas": "9.9359945, -84.0669545"
+                },
+                {
+                    "distrito":"Merced",
+                    "coordenadas":"9.932877699999999, -84.0794605"
+                },
+                {
+                    "distrito":"Hospital",
+                    "coordenadas":"9.9347446, -84.0866116"
+                },
+                {
+                    "distrito":"Catedral",
+                    "coordenadas":"9.9347446, -84.0866116"
+                },
+                {
+                    "distrito":"Zapote",
+                    "coordenadas":"9.9191024, -84.05966699999999"
+                },
+                {
+                    "distrito":"San Francisco De Dos Rios",
+                    "coordenadas":"9.9108836, -84.0576196"
+                },
+                {
+                    "distrito":"Uruca",
+                    "coordenadas":"9.7643165, -84.13435679999999"
+                },
+                {
+                    "distrito":"Mata Redonda",
+                    "coordenadas":"9.9334277, -84.1103725"
+                },
+                {
+                    "distrito":"Pavas",
+                    "coordenadas":"9.945407099999999, -84.12768179999999"
+                },
+                {
+                    "distrito":"Hatillo",
+                    "coordenadas":"9.9149938, -84.10015659999999"
+                },
+                {
+                    "distrito":"San Setastian",
+                    "coordenadas":"9.905263699999999, -84.0892428"
+                }
+            ]
+        },
+        {
+            "canton":"Escazu",
+            "coordenadas":"9.920695, -84.14615189999999",
+            "distritos":[
+                {
+                    "distrito":"Escazu",
+                    "coordenadas":"9.920695, -84.14615189999999"
+                },
+                {
+                    "distrito":"San Antonio",
+                    "coordenadas":"9.920695, -84.14615189999999"
+                },
+                {
+                    "distrito":"San Rafael",
+                    "coordenadas":"9.9346483, -84.14878999999999"
+                }
+            ]
+        },
+        {
+            "canton":"Desamparados",
+            "coordenadas":"9.8969706, -84.0616709",
+            "distritos":[
+                {
+                    "distrito":"Desamparados",
+                    "coordenadas":"9.8969706, -84.0616709"
+                },
+                {
+                    "distrito":"San Miguel",
+                    "coordenadas":"9.8761455, -84.0629919"
+                },
+                {
+                    "distrito":"San Juan De Dios",
+                    "coordenadas":"9.8761455, -84.0629919"
+                },
+                {
+                    "distrito":"San Rafael Arriba",
+                    "coordenadas":"9.876801799999999, -84.0737352"
+                },
+                {
+                    "distrito":"San Rafael Abajo",
+                    "coordenadas":"9.895975199999999, -84.0841227"
+                },
+                {
+                    "distrito":"San Antonio",
+                    "coordenadas":"9.8989015, -84.0470318"
+                },
+                {
+                    "distrito":"Frailes",
+                    "coordenadas":"9.7510245, -84.0550659"
+                },
+                {
+                    "distrito":"Patarra",
+                    "coordenadas":"9.8852915, -84.0299601"
+                },
+                {
+                    "distrito":"San Cristobal",
+                    "coordenadas":"9.8336455, -84.21668160000002"
+                },
+                {
+                    "distrito":"Rosario",
+                    "coordenadas":"9.8969706, -84.0616709"
+                },
+                {
+                    "distrito":"Damas",
+                    "coordenadas":"9.895, -84.045998"
+                },
+                {
+                    "distrito":"Gravilias",
+                    "coordenadas":"9.8934374, -84.0583685"
+                },
+                {
+                    "distrito":"Los Guido",
+                    "coordenadas":"9.8688951, -84.0458176"
+                }
+            ]
+        },
+        {
+            "canton":"Puriscal",
+            "coordenadas":"9.832137, -84.3331694",
+            "distritos":[
+                {
+                    "distrito":"Santiago",
+                    "coordenadas":"9.849876, -84.3164496"
+                },
+                {
+                    "distrito":"Mercedes Sur",
+                    "coordenadas":"9.816835099999999, -84.35656399999999"
+                },
+                {
+                    "distrito":"Barbacoas",
+                    "coordenadas":"9.858405, -84.34893"
+                },
+                {
+                    "distrito":"Grifo Alto",
+                    "coordenadas":"9.8775769, -84.3890299"
+                },
+                {
+                    "distrito":"San Rafael",
+                    "coordenadas":"9.83915, -84.29052"
+                },
+                {
+                    "distrito":"Candelarita",
+                    "coordenadas":"9.7957618, -84.3387577"
+                },
+                {
+                    "distrito":"Desamparaditos",
+                    "coordenadas":"9.878428999999999, -84.33991189999999"
+                },
+                {
+                    "distrito":"San Antonio",
+                    "coordenadas":"9.857633, -84.300659"
+                },
+                {
+                    "distrito":"Chires",
+                    "coordenadas":"9.556281, -84.431664"
+                }
+            ]
+        },
+        {
+            "canton":"Tarrazú",
+            "coordenadas":"9.6051515, -84.0378894",
+            "distritos":[
+                {
+                    "distrito":"San Marcos",
+                    "coordenadas":"9.6651293, -84.0213754"
+                },
+                {
+                    "distrito":"San Lorenzo",
+                    "coordenadas":"9.6051515, -84.0378894"
+                },
+                {
+                    "distrito":"San Carlos",
+                    "coordenadas":"9.629677, -84.0946854"
+                }
+            ]
+        },
+        {
+            "canton":"Aserrí",
+            "coordenadas":"9.8641706, -84.0933652",
+            "distritos":[
+                {
+                    "distrito":"Aserrí",
+                    "coordenadas":"9.8641706, -84.0933652"
+                },
+                {
+                    "distrito":"Tarbaca",
+                    "coordenadas":"9.8641706, -84.0933652"
+                },
+                {
+                    "distrito":"Vuelta De Jorco",
+                    "coordenadas":"9.8641706, -84.0933652"
+                },
+                {
+                    "distrito":"San Gabriel",
+                    "coordenadas":"9.7856577, -84.10784319999999"
+                },
+                {
+                    "distrito":"Legua",
+                    "coordenadas":"9.7366951, -84.10982709999999"
+                },
+                {
+                    "distrito":"Monterrey",
+                    "coordenadas":"9.756197, -84.109993"
+                },
+                {
+                    "distrito":"Salitrillos",
+                    "coordenadas":"9.8545772, -84.09284310000001"
+                }
+            ]
+        },
+        {
+            "canton":"Mora",
+            "coordenadas":"9.9323988, -84.080052",
+            "distritos":[
+                {
+                    "distrito":"Colón",
+                    "coordenadas":"9.9323988, -84.080052"
+                },
+                {
+                    "distrito":"Guayabo",
+                    "coordenadas":"9.8587805, -84.26475219999999"
+                },
+                {
+                    "distrito":"Tabarcia",
+                    "coordenadas":"9.8416573, -84.238417"
+                },
+                {
+                    "distrito":"Piedras Negras",
+                    "coordenadas":"9.91085, -84.3248289"
+                },
+                {
+                    "distrito":"Picagres",
+                    "coordenadas":"9.9053298, -84.34566009999999"
+                },
+                {
+                    "distrito":"Jaris",
+                    "coordenadas":"9.8702566, -84.2858121"
+                }
+            ]
+        },
+        {
+            "canton":"Goicoechea",
+            "coordenadas":"9.9546686, -84.02202980000001",
+            "distritos":[
+                {
+                    "distrito":"Guadalupa",
+                    "coordenadas":"9.946603099999999, -84.0536463"
+                },
+                {
+                    "distrito":"San Francisco",
+                    "coordenadas":"9.9423579, -84.0728979"
+                },
+                {
+                    "distrito":"Calle Blancos",
+                    "coordenadas":"9.9471209, -84.0669545"
+                },
+                {
+                    "distrito":"Mata De Platano",
+                    "coordenadas":"9.9517808, -84.0219991"
+                },
+                {
+                    "distrito":"Ipís",
+                    "coordenadas":"9.9649682, -84.0172628"
+                },
+                {
+                    "distrito":"Rancho Redondo",
+                    "coordenadas":"9.961952, -83.950935"
+                },
+                {
+                    "distrito":"Purral",
+                    "coordenadas":"9.962174599999999, -84.0073228"
+                }
+            ]
+        },
+        {
+            "canton":"Santa Ana",
+            "coordenadas":"9.9312697, -84.1820735",
+            "distritos":[
+                {
+                    "distrito":"Santa Ana",
+                    "coordenadas":"9.9312697, -84.1820735"
+                },
+                {
+                    "distrito":"Salitral",
+                    "coordenadas":"9.908751700000002, -84.17912"
+                },
+                {
+                    "distrito":"Pozos",
+                    "coordenadas":"9.9312697, -84.1820735"
+                },
+                {
+                    "distrito":"Uruca",
+                    "coordenadas":"9.9312697, -84.1820735"
+                },
+                {
+                    "distrito":"Piedades",
+                    "coordenadas":"9.9312697, -84.1820735"
+                },
+                {
+                    "distrito":"Brasil",
+                    "coordenadas":"9.9312697, -84.1820735"
+                }
+            ]
+        },
+        {
+            "canton":"Alajuelita",
+            "coordenadas":"9.901608, -84.09947",
+            "distritos":[
+                {
+                    "distrito":"Alajuelita",
+                    "coordenadas":"9.901608, -84.09947"
+                },
+                {
+                    "distrito":"San Josecito",
+                    "coordenadas":"9.8936301, -84.1062242"
+                },
+                {
+                    "distrito":"San Antonio",
+                    "coordenadas":"9.8989015, -84.0470318"
+                },
+                {
+                    "distrito":"Concepción",
+                    "coordenadas":"9.8901339, -84.0888458"
+                },
+                {
+                    "distrito":"San Felipe",
+                    "coordenadas":"9.907466999999999, -84.1052462"
+                }
+            ]
+        },
+        {
+            "canton":"Vázquez De Coronado",
+            "coordenadas":"9.9929583, -83.985008",
+            "distritos":[
+                {
+                    "distrito":"San Isidro",
+                    "coordenadas":"9.9739072, -84.0088103"
+                },
+                {
+                    "distrito":"San Rafael",
+                    "coordenadas":"9.9805871, -83.99083689999999"
+                },
+                {
+                    "distrito":"Dulce Nombre De Jesus",
+                    "coordenadas":"9.9929583, -83.985008"
+                },
+                {
+                    "distrito":"Patalillo",
+                    "coordenadas":"9.9755112, -84.020708"
+                },
+                {
+                    "distrito":"Cascajal",
+                    "coordenadas":"10.006598, -83.958153"
+                }
+            ]
+        },
+        {
+            "canton":"Acosta",
+            "coordenadas":"9.8000005, -84.1580225",
+            "distritos":[
+                {
+                    "distrito":"San Ignacio",
+                    "coordenadas":"9.7993083, -84.1623211"
+                },
+                {
+                    "distrito":"Guaitil",
+                    "coordenadas":"9.792221, -84.2311727"
+                },
+                {
+                    "distrito":"Palmichal",
+                    "coordenadas":"9.8390232, -84.2061404"
+                },
+                {
+                    "distrito":"Cangrejal",
+                    "coordenadas":"9.764662999999999, -84.22011599999999"
+                },
+                {
+                    "distrito":"Sabanillas",
+                    "coordenadas":"9.746606, -84.26052899999999"
+                }
+            ]
+        },
+        {
+            "canton":"Tibás",
+            "coordenadas":"9.957617599999999, -84.08161229999999",
+            "distritos":[
+                {
+                    "distrito":"San Juan",
+                    "coordenadas":"9.964000000000002, -84.0775201"
+                },
+                {
+                    "distrito":"Cinco Esquinas",
+                    "coordenadas":"9.9466936, -84.08214199999999"
+                },
+                {
+                    "distrito":"Anselmo Llorente",
+                    "coordenadas":"9.9569277, -84.07091679999999"
+                },
+                {
+                    "distrito":"Leon Xiii",
+                    "coordenadas":"9.9602225, -84.099966"
+                },
+                {
+                    "distrito":"Colima",
+                    "coordenadas":"9.953057699999999, -84.0880839"
+                }
+            ]
+        },
+        {
+            "canton":"Moravia",
+            "coordenadas":"10.0101333, -84.01145439999999",
+            "distritos":[
+                {
+                    "distrito":"",
+                    "coordenadas":""
+                }
+            ]
+        },
+        {
+            "canton":"",
+            "coordenadas":"",
+            "distritos":[
+                {
+
+                }
+            ]
+        },
+        {
+            "canton":"",
+            "coordenadas":"",
+            "distritos":[
+                {
+
+                }
+            ]
+        }
+    ]
+    }
+}
